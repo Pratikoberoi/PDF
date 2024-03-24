@@ -1,0 +1,13 @@
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.exe
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.deps.json
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.runtimeconfig.json
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.runtimeconfig.dev.json
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.dll
+D:\Project\PDF\PDF\PDF\bin\Debug\netcoreapp3.1\PDF.pdb
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.csproj.AssemblyReference.cache
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.AssemblyInfoInputs.cache
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.AssemblyInfo.cs
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.csproj.CoreCompileInputs.cache
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.dll
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.pdb
+D:\Project\PDF\PDF\PDF\obj\Debug\netcoreapp3.1\PDF.genruntimeconfig.cache
